@@ -1,7 +1,7 @@
 {
   "name": "serveit",
   "version": "0.1.0",
-  "description": "Simple node fileserver.",
+  "description": "Simple Node.js file server for quick UI prototyping.",
   "preferGlobal": true,
   "bin": {
   	"serveit": "lib/serveit.js"
@@ -12,6 +12,10 @@
   "author": {
   	"name": "Zachary Lumpkins",
   	"email": "zdoc01@gmail.com"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "http://github.com/zdoc01/serveit.git"
   },
   "license": "MIT"
 }
