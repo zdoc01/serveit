@@ -1,6 +1,6 @@
 {
   "name": "serveit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple Node.js file server for quick UI prototyping.",
   "preferGlobal": true,
   "bin": {
